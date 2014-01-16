@@ -1,5 +1,5 @@
 # Empty
 
-desc 'Default'
+desc 'Default task'
 task :default do
 end
